@@ -80,7 +80,7 @@ The **Employee Tracker** is a command-line application that allows business owne
 ## Walkthrough Video
 
 Watch the walkthrough video demonstrating the application's functionality:
-[Walkthrough Video](#)
+[Walkthrough Video](https://drive.google.com/file/d/1E0dSODlMpBzv9f5alPy3gz_ZGRb5qv-n/view?usp=sharing)
 
 ---
 
